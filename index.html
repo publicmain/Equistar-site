@@ -1,0 +1,1052 @@
+﻿<!DOCTYPE html>
+<html class="wide wow-animation scrollTo" lang="en">
+
+<head>
+    <title>Equistar International College | Premier Education in Singapore</title>
+    <meta charset="utf-8">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="keywords" content="intense web design multipurpose template">
+    <meta name="date" content="Dec 26">
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300italic,300,400italic,600,700%7CMerriweather:400,300,300italic,400italic,700,700italic">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/novi.css">
+    <link rel="stylesheet" href="css/course-dropdown-enhancement.css">
+    <style>
+        /* Premium Homepage Enhancements - Harvard Red Theme */
+        
+        /* Hero Section Overlay Enhancement */
+        .swiper-slide-caption {
+            background: rgba(0, 0, 0, 0.45) !important;
+            backdrop-filter: blur(3px);
+        }
+        
+        .swiper-slide-caption h1 {
+            font-size: 56px !important;
+            font-weight: 700 !important;
+            letter-spacing: -1px;
+            text-shadow: 0 4px 12px rgba(0,0,0,0.3);
+            line-height: 1.2;
+        }
+        
+        .swiper-slide-caption h6 {
+            font-size: 20px !important;
+            font-weight: 400 !important;
+            opacity: 0.95;
+            line-height: 1.6;
+        }
+        
+        /* Premium Button Styles */
+        .btn-primary {
+            background: linear-gradient(135deg, #A51C30 0%, #b80924 100%) !important;
+            border: none !important;
+            padding: 16px 40px !important;
+            font-size: 16px !important;
+            font-weight: 600 !important;
+            letter-spacing: 0.5px;
+            border-radius: 50px !important;
+            box-shadow: 0 8px 20px rgba(165, 28, 48, 0.3) !important;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+        }
+        
+        .btn-primary:hover {
+            transform: translateY(-3px) !important;
+            box-shadow: 0 12px 30px rgba(165, 28, 48, 0.4) !important;
+            background: linear-gradient(135deg, #b80924 0%, #8e0719 100%) !important;
+        }
+        
+        /* Small Button Styles for Cards */
+        .btn-sm.btn-primary {
+            padding: 10px 24px !important;
+            font-size: 14px !important;
+            font-weight: 500 !important;
+            border-radius: 25px !important;
+            box-shadow: 0 4px 12px rgba(165, 28, 48, 0.2) !important;
+        }
+        
+        .btn-sm.btn-primary:hover {
+            transform: translateY(-2px) !important;
+            box-shadow: 0 6px 18px rgba(165, 28, 48, 0.3) !important;
+        }
+        
+        .btn-default {
+            background: transparent !important;
+            border: 2px solid white !important;
+            color: white !important;
+            padding: 14px 38px !important;
+            font-size: 16px !important;
+            font-weight: 600 !important;
+            letter-spacing: 0.5px;
+            border-radius: 50px !important;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+        }
+        
+        .btn-default:hover {
+            background: white !important;
+            color: #A51C30 !important;
+            transform: translateY(-3px) !important;
+            box-shadow: 0 8px 20px rgba(255, 255, 255, 0.3) !important;
+        }
+        
+        /* Section Titles Enhancement */
+        h2.text-bold {
+            font-size: 42px !important;
+            font-weight: 700 !important;
+            letter-spacing: -0.5px;
+            color: #1a1a1a !important;
+            margin-bottom: 20px;
+        }
+        
+        .divider.bg-madison {
+            background: linear-gradient(90deg, #A51C30 0%, #b80924 50%, #A51C30 100%) !important;
+            height: 4px !important;
+            width: 80px !important;
+            border-radius: 2px;
+        }
+        
+        /* Program Cards Enhancement */
+        .post-boxed {
+            border-radius: 16px !important;
+            overflow: hidden;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.08) !important;
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1) !important;
+            border: 1px solid rgba(0,0,0,0.05);
+        }
+        
+        .post-boxed:hover {
+            transform: translateY(-12px) !important;
+            box-shadow: 0 20px 60px rgba(165, 28, 48, 0.15) !important;
+        }
+        
+        .post-boxed-img-wrap {
+            background: linear-gradient(135deg, #A51C30 0%, #b80924 100%) !important;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .post-boxed-img-wrap::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            right: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%);
+            transition: all 0.6s ease;
+        }
+        
+        .post-boxed:hover .post-boxed-img-wrap::before {
+            transform: translate(-25%, -25%);
+        }
+        
+        .post-boxed-title a {
+            color: #A51C30 !important;
+            font-weight: 600 !important;
+            font-size: 20px !important;
+            transition: color 0.3s ease;
+        }
+        
+        .post-boxed-title a:hover {
+            color: #b80924 !important;
+        }
+        
+        .post-boxed-body {
+            padding: 35px 30px !important;
+            background: white;
+        }
+        
+        /* Stats Section Enhancement */
+        .bg-catskill {
+            background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%) !important;
+        }
+        
+        /* Testimonial Section Enhancement */
+        .quote-boxed {
+            border-radius: 12px !important;
+            box-shadow: 0 8px 30px rgba(0,0,0,0.06) !important;
+            transition: all 0.3s ease !important;
+            border-left: 4px solid #A51C30 !important;
+        }
+        
+        .quote-boxed:hover {
+            transform: translateY(-5px) !important;
+            box-shadow: 0 12px 40px rgba(165, 28, 48, 0.12) !important;
+        }
+        
+        /* Lead Text Enhancement */
+        .lead {
+            font-size: 22px !important;
+            line-height: 1.7 !important;
+            color: #2c3e50 !important;
+            font-weight: 400 !important;
+        }
+        
+        /* Responsive Adjustments */
+        @media (max-width: 768px) {
+            .swiper-slide-caption h1 {
+                font-size: 36px !important;
+            }
+            
+            .swiper-slide-caption h6 {
+                font-size: 16px !important;
+            }
+            
+            h2.text-bold {
+                font-size: 32px !important;
+            }
+            
+            
+            .btn-primary, .btn-default {
+                padding: 12px 28px !important;
+                font-size: 14px !important;
+            }
+        }
+        
+        /* Smooth Scroll */
+        html {
+            scroll-behavior: smooth;
+        }
+        
+        /* Section Spacing Enhancement */
+        .section-70 {
+            padding-top: 90px !important;
+            padding-bottom: 90px !important;
+        }
+        
+        .section-md-114 {
+            padding-top: 120px !important;
+            padding-bottom: 120px !important;
+        }
+        
+        /* Feature Cards Hover Enhancement */
+        .cell-sm-6.cell-md-3 > div {
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        
+        .cell-sm-6.cell-md-3:hover > div {
+            transform: translateY(-8px);
+            box-shadow: 0 12px 40px rgba(165, 28, 48, 0.15) !important;
+        }
+        
+        /* Form Enhancement */
+        .form-control {
+            border: 2px solid #e0e0e0 !important;
+            border-radius: 8px !important;
+            padding: 14px 20px !important;
+            font-size: 15px !important;
+            transition: all 0.3s ease !important;
+        }
+        
+        .form-control:focus {
+            border-color: #A51C30 !important;
+            box-shadow: 0 0 0 3px rgba(165, 28, 48, 0.1) !important;
+            outline: none !important;
+        }
+        
+        .form-label {
+            font-weight: 600 !important;
+            color: #333 !important;
+            font-size: 14px !important;
+        }
+        
+        /* Quote Enhancement */
+        .quote-classic-boxed {
+            padding: 40px !important;
+        }
+        
+        .quote-classic-boxed q {
+            font-size: 24px !important;
+            line-height: 1.6 !important;
+            font-style: italic;
+        }
+        
+        .quote-classic-boxed cite {
+            font-size: 20px !important;
+            font-weight: 600 !important;
+        }
+        
+        /* Owl Carousel Navigation Enhancement */
+        .owl-prev, .owl-next {
+            background: rgba(255, 255, 255, 0.2) !important;
+            border-radius: 50% !important;
+            width: 50px !important;
+            height: 50px !important;
+            transition: all 0.3s ease !important;
+        }
+        
+        .owl-prev:hover, .owl-next:hover {
+            background: rgba(255, 255, 255, 0.3) !important;
+            transform: scale(1.1) !important;
+        }
+        
+        /* Event Cards Enhancement */
+        #upcoming-events .post-boxed {
+            border-radius: 12px !important;
+            overflow: hidden;
+        }
+        
+        /* Language Toggle Button Enhancement */
+        #language-toggle:hover {
+            background: #A51C30 !important;
+            color: white !important;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(165, 28, 48, 0.25) !important;
+        }
+        
+        /* Swiper Pagination Enhancement */
+        .swiper-pagination-bullet {
+            background: white !important;
+            opacity: 0.5 !important;
+            width: 12px !important;
+            height: 12px !important;
+        }
+        
+        .swiper-pagination-bullet-active {
+            opacity: 1 !important;
+            width: 30px !important;
+            border-radius: 6px !important;
+        }
+    </style>
+    <!--[if lt IE 10]><div style="background: #212121; padding: 10px 0; box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3); clear: both; text-align:center; position: relative; z-index:1;"><a href="http://windows.microsoft.com/en-US/internet-explorer/"><img src="images/ie8-panel/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."></a></div><script src="js/html5shiv.min.js"></script><![endif]-->
+</head>
+
+<body>
+    <div class="page-loader">
+        <div class="page-loader-body"><span class="cssload-loader"><span class="cssload-loader-inner"></span></span></div>
+    </div>
+    <div class="page text-center">
+        <header class="page-head">
+            <div class="rd-navbar-wrap">
+                <nav class="rd-navbar novi-background rd-navbar-center" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-fixed" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-xxl-layout="rd-navbar-static" data-xxl-device-layout="rd-navbar-static" data-lg-stick-up-offset="220px" data-xl-stick-up-offset="220px" data-xxl-stick-up-offset="220px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
+                    <div class="rd-navbar-inner">
+                        <div class="rd-navbar-panel"><button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar, .rd-navbar-nav-wrap"><span></span></button>
+                            <h4 class="panel-title">Equistar International College</h4><button class="rd-navbar-top-panel-toggle" data-rd-navbar-toggle=".rd-navbar-top-panel"><span></span></button>
+                            <div class="rd-navbar-top-panel">
+                                <div class="shell">
+                                    <div class="range range-10 range-md-center range-md-middle range-lg-around">
+                                        <div class="cell-md-3">
+                                            <div class="unit unit-horizontal unit-top unit-spacing-xs">
+                                                <div class="unit-left"><span class="icon novi-icon mdi mdi-phone text-middle"></span></div>
+                                                <div class="unit-body"><a class="reveal-block" href="tel:+6562982749">+65 62982749</a></div>
+                                            </div>
+                                        </div>
+                                        <div class="cell-md-3 text-center">
+                                            <div class="rd-navbar-brand"><a class="reveal-inline-block" href="index"><img src="Picture/logo.jpg" alt="Equistar International College" width="191" height="80"></a></div>
+                                        </div>
+                                        <div class="cell-md-3">
+                                            <div class="inset-md-left-50">
+                                                <div class="unit unit-horizontal unit-top unit-spacing-xs text-left">
+                                                    <div class="unit-left"><span class="icon novi-icon mdi mdi-map-marker text-middle"></span></div>
+                                                    <div class="unit-body"><a href="#">1 Selegie Road #07-02, Singapore 188306</a></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="rd-navbar-menu-wrap clearfix">
+                            <div class="rd-navbar-nav-wrap">
+                                <div class="rd-navbar-mobile-scroll">
+                                    <div class="rd-navbar-mobile-header-wrap">
+                                        <div class="rd-navbar-mobile-brand"><a href="index"><img src="Picture/logo.jpg" alt="Equistar International College" style="max-width: 150px; height: auto;"></a></div>
+                                    </div>
+                                    <ul class="rd-navbar-nav">
+                                        <li><a href="index">Home</a></li>
+                                        <li><a href="about-us">About</a>
+                                            <ul class="rd-navbar-dropdown">
+                                                <li><a href="about-us">About</a></li>
+                                                                        <li><a href="history" data-i18n="navPrincipalsMessage">Principal's Message</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="rd-navbar--has-dropdown rd-navbar-submenu"><a href="course-grid" data-i18n="navCourse">Our Academic Programs</a>
+                                            <ul class="rd-navbar-dropdown rd-navbar-open-right" >
+                                                <li><a href="course-grid" data-i18n="navCourse">Our Academic Programs</a></li>
+                                                                        <li><a href="course-sec">Preparatory Course for Singapore-Cambridge Secondary Education Certificate (SEC)</a></li>
+                                                <li><a href="course-olevel">Preparatory Course for Singapore-Cambridge General Certificate of Education (Ordinary Level) (Intensive)</a></li>
+                                                <li><a href="course-alevel">Preparatory Course for Singapore-Cambridge General Certificate of Education (Advanced Level)</a></li>
+                                                <li><a href="course-ial">Preparatory Course for Pearson Edexcel International Advanced Level</a></li>
+                                                <li><a href="course-datascience">Post Graduate Diploma in Data Science (E-Learning)</a></li>
+                                                <li><a href="course-generative-ai">Post Graduate Certificate in Generative AI (E-Learning)</a></li>
+                                                <li><a href="course-management">Post Graduate Diploma in Management (E-Learning)</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="rd-navbar--has-dropdown rd-navbar-submenu"><a href="admissions">Admissions</a>
+                                            <ul class="rd-navbar-dropdown rd-navbar-open-right" >
+                                                <li><a href="admissions">Admissions</a></li>
+                                                                        <li><a href="admissions-apply">How to Apply</a></li>
+                                                <li><a href="admissions-fees">Fees & Payments</a></li>
+                                                <li><a href="admissions-policies">Policies & Procedures</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="rd-navbar--has-dropdown rd-navbar-submenu"><a href="student-life">Student Services</a>
+                                            <ul class="rd-navbar-dropdown rd-navbar-open-right" >
+                                                <li><a href="student-life">Life in Singapore</a></li>
+                                                <li><a href="student-support">Student Support</a></li>
+                                                <li><a href="student-outcomes">Student Outcomes</a></li>
+                                            </ul>
+                                        </li>
+                                        
+                                        <li class="rd-navbar--has-dropdown rd-navbar-submenu"><a href="downloads">Resources</a>
+                                            <ul class="rd-navbar-dropdown">
+                                                <li><a href="downloads">Downloads</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="contacts">Contacts</a></li>
+                                    </ul>
+                                    <div class="rd-navbar-search-mobile" id="rd-navbar-search-mobile">
+                                        <form class="rd-navbar-search-form search-form-icon-right rd-search" action="search-results" method="GET">
+                                            <div class="form-group"><label class="form-label" for="rd-navbar-mobile-search-form-control" data-i18n="searchPlaceholder">Search...</label><input class="rd-navbar-search-form-control form-control form-control-gray-lightest" id="rd-navbar-mobile-search-form-control" type="text" name="s" autocomplete="off"></div><button class="icon fa-search rd-navbar-search-button" type="submit"></button>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="rd-navbar-search"><a class="rd-navbar-search-toggle mdi" data-rd-navbar-toggle=".rd-navbar-search" href="#"><span></span></a>
+                                <form class="rd-navbar-search-form search-form-icon-right rd-search" action="search-results" data-search-live="rd-search-results-live" method="GET">
+                                    <div class="form-group"><label class="form-label" for="rd-navbar-search-form-control" data-i18n="searchLabel">Search</label><input class="rd-navbar-search-form-control form-control form-control-gray-lightest" id="rd-navbar-search-form-control" type="text" name="s" autocomplete="off">
+                                        <div class="rd-search-results-live" id="rd-search-results-live"></div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </header>
+        <section class="section">
+            <div class="swiper-container swiper-slider swiper-slider-modern swiper-slider-2" data-loop="true" data-dragable="false" data-slide-effect="fade">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide" data-slide-bg="images/slide-01-1920x810.jpg" style="background-position: 50% center">
+                        <div class="swiper-slide-caption section-70">
+                            <div class="container">
+                                <div class="range range-xs-center">
+                                    <div class="cell-md-9 cell-xs-10">
+                                        <div>
+                                            <h1 class="text-bold" data-i18n="heroTitle1">School of One</h1>
+                                        </div>
+                                        <div class="offset-top-20 offset-xs-top-40 offset-xl-top-15">
+                                            <h6 class=""><span data-novi-id="1" data-i18n="heroSubtitle1">Empowering students to achieve academic excellence and personal growth through quality education.</span></h6>
+                                        </div>
+                                        <div class="offset-top-20 offset-xl-top-30">
+                                            <div class="group-xl group-middle"><a class="btn btn-primary" href="about-us" data-i18n="discoverEquistar">Discover Equistar</a><a class="btn btn-default" href="contacts" data-i18n="contactUs"><span data-novi-id="3">Contact Us</span></a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide" data-slide-bg="images/slide-02-1920x810.jpg" style="background-position: 50% center">
+                        <div class="swiper-slide-caption section-70">
+                            <div class="container">
+                                <div class="range range-xs-center">
+                                    <div class="cell-md-9 cell-xs-10">
+                                        <div>
+                                            <h1 class="text-bold" data-i18n="heroTitle2">Your Pathway to Success</h1>
+                                        </div>
+                                        <div class="offset-top-20 offset-xs-top-40 offset-xl-top-15">
+                                            <h6><span data-novi-id="2" data-i18n="heroSubtitle2">Comprehensive academic programs preparing students for top universities worldwide.</span></h6>
+                                        </div>
+                                        <div class="offset-top-20 offset-xl-top-30">
+                                            <div class="group-xl group-middle"><a class="btn btn-primary" href="about-us" data-i18n="discoverEquistar">Discover Equistar</a><a class="btn btn-default" href="contacts" data-i18n="contactUs">Contact Us</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide" data-slide-bg="images/slide-03-1920x810.jpg" style="background-position: 50% center">
+                        <div class="swiper-slide-caption section-70">
+                            <div class="container">
+                                <div class="range range-xs-center">
+                                    <div class="cell-md-9 cell-xs-10">
+                                        <div>
+                                            <h1 class="text-bold" data-i18n="heroTitle3">Building Future Leaders</h1>
+                                        </div>
+                                        <div class="offset-top-20 offset-xs-top-40 offset-xl-top-15">
+                                            <h6 class=""><span data-novi-id="0" data-i18n="heroSubtitle3">Nurturing academic excellence, character development, and global citizenship.</span></h6>
+                                        </div>
+                                        <div class="offset-top-20 offset-xl-top-30">
+                                            <div class="group-xl group-middle"><a class="btn btn-primary" href="about-us" data-i18n="discoverEquistar">Discover Equistar</a><a class="btn btn-default" href="contacts" data-i18n="contactUs">Contact Us</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-button-prev fa-arrow-left"></div>
+                <div class="swiper-button-next fa-arrow-right"></div>
+                <div class="swiper-pagination"></div>
+            </div>
+        </section>
+        <section class="section novi-background bg-cover section-70 section-md-114 bg-default" style="position: relative;">
+            <div class="shell">
+                <div class="range range-50">
+                    <div class="cell-sm-12 text-sm-left">
+                        <div style="max-width: 900px; margin: 0 auto; text-align: center;">
+                            <h2 class="text-bold" data-i18n="aboutTitle">About Us</h2>
+                            <hr class="divider bg-madison" style="margin: 20px auto;">
+                            <div class="offset-top-30 offset-sm-top-30">
+                                <p data-i18n="aboutDesc" style="font-size: 18px; color: #555; line-height: 1.8; max-width: 900px; margin: 0 auto;">Established in 2010, Equistar International College (ESIC) has built a strong academic framework supported by robust systems and processes. With nearly 15 years of experience in Singapore, the College is committed to delivering quality education that integrates academic rigor, industry relevance, and holistic student development, empowering learners to achieve their aspirations and excel in a globalized world.</p>
+                            </div>
+                        </div>
+                        <div class="offset-top-90" style="max-width: 1000px; margin: 0 auto; margin-top: 60px;">
+                            <div class="range range-30" style="display: flex; flex-wrap: wrap; justify-content: center;">
+                                <div class="cell-sm-6 cell-md-3" style="display: flex;">
+                                    <div style="text-align: center; padding: 30px 20px; background: white; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.06); width: 100%; transition: all 0.3s ease; border-top: 3px solid #A51C30;">
+                                        <div style="width: 70px; height: 70px; margin: 0 auto 20px; background: linear-gradient(135deg, #A51C30 0%, #b80924 100%); border-radius: 50%; display: flex; align-items: center; justify-content: center; box-shadow: 0 6px 20px rgba(165,28,48,0.25);">
+                                            <span class="icon novi-icon mdi mdi-school" style="font-size: 36px; color: white;"></span>
+                                        </div>
+                                        <h6 class="text-bold" data-i18n="aboutFeature1Title" style="color: #A51C30; font-size: 18px; margin-bottom: 10px;">Academic Excellence</h6>
+                                        <p data-i18n="aboutFeature1Desc" style="font-size: 14px; color: #666; line-height: 1.6; margin: 0;">Rigorous curriculum aligned with Cambridge, Pearson Edexcel, and Singapore standards</p>
+                                    </div>
+                                </div>
+                                <div class="cell-sm-6 cell-md-3" style="display: flex;">
+                                    <div style="text-align: center; padding: 30px 20px; background: white; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.06); width: 100%; transition: all 0.3s ease; border-top: 3px solid #A51C30;">
+                                        <div style="width: 70px; height: 70px; margin: 0 auto 20px; background: linear-gradient(135deg, #A51C30 0%, #b80924 100%); border-radius: 50%; display: flex; align-items: center; justify-content: center; box-shadow: 0 6px 20px rgba(165,28,48,0.25);">
+                                            <span class="icon novi-icon mdi mdi-account-multiple" style="font-size: 36px; color: white;"></span>
+                                        </div>
+                                        <h6 class="text-bold" data-i18n="aboutFeature2Title" style="color: #A51C30; font-size: 18px; margin-bottom: 10px;">Experienced Faculty</h6>
+                                        <p data-i18n="aboutFeature2Desc" style="font-size: 14px; color: #666; line-height: 1.6; margin: 0;">Qualified teachers with proven track records in student success</p>
+                                    </div>
+                                </div>
+                                <div class="cell-sm-6 cell-md-3" style="display: flex;">
+                                    <div style="text-align: center; padding: 30px 20px; background: white; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.06); width: 100%; transition: all 0.3s ease; border-top: 3px solid #A51C30;">
+                                        <div style="width: 70px; height: 70px; margin: 0 auto 20px; background: linear-gradient(135deg, #A51C30 0%, #b80924 100%); border-radius: 50%; display: flex; align-items: center; justify-content: center; box-shadow: 0 6px 20px rgba(165,28,48,0.25);">
+                                            <span class="icon novi-icon mdi mdi-heart" style="font-size: 36px; color: white;"></span>
+                                        </div>
+                                        <h6 class="text-bold" data-i18n="aboutFeature3Title" style="color: #A51C30; font-size: 18px; margin-bottom: 10px;">Personalized Support</h6>
+                                        <p data-i18n="aboutFeature3Desc" style="font-size: 14px; color: #666; line-height: 1.6; margin: 0;">Individual attention and customized learning plans for every student</p>
+                                    </div>
+                                </div>
+                                <div class="cell-sm-6 cell-md-3" style="display: flex;">
+                                    <div style="text-align: center; padding: 30px 20px; background: white; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.06); width: 100%; transition: all 0.3s ease; border-top: 3px solid #A51C30;">
+                                        <div style="width: 70px; height: 70px; margin: 0 auto 20px; background: linear-gradient(135deg, #A51C30 0%, #b80924 100%); border-radius: 50%; display: flex; align-items: center; justify-content: center; box-shadow: 0 6px 20px rgba(165,28,48,0.25);">
+                                            <span class="icon novi-icon mdi mdi-trophy-variant" style="font-size: 36px; color: white;"></span>
+                                        </div>
+                                        <h6 class="text-bold" data-i18n="aboutFeature4Title" style="color: #A51C30; font-size: 18px; margin-bottom: 10px;">Holistic Development</h6>
+                                        <p data-i18n="aboutFeature4Desc" style="font-size: 14px; color: #666; line-height: 1.6; margin: 0;">Comprehensive support for academic, personal, and social growth</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="offset-top-50" style="text-align: center;">
+                            <a class="btn btn-primary btn-lg" href="about-us" data-i18n="learnMoreAboutUs" style="padding: 18px 50px !important; font-size: 18px !important;">Learn More About Us</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="section novi-background bg-cover section-70 section-md-114 bg-default">
+            <div class="shell">
+                <div style="text-align: center; max-width: 900px; margin: 0 auto;">
+                    <h2 class="text-bold" data-i18n="programsTitle">Our Academic Programs</h2>
+                    <hr class="divider bg-madison" style="margin: 20px auto;">
+                    <div class="offset-top-30 offset-md-top-40">
+                    </div>
+                </div>
+                <div class="range range-30 offset-top-50 text-left" style="display: flex; flex-wrap: wrap;">
+                    <div class="cell-sm-6 cell-lg-3" style="display: flex;">
+                        <article class="post-boxed" style="display: flex; flex-direction: column; width: 100%;">
+                            <div class="post-boxed-img-wrap" style="background-color: #A51C30; padding: 30px; text-align: center; height: 108px; display: flex; align-items: center; justify-content: center;">
+                                <span class="icon novi-icon mdi mdi-school" style="font-size: 48px; color: white;"></span>
+                            </div>
+                            <div class="post-boxed-body" style="flex: 1; display: flex; flex-direction: column;">
+                                <h5 class="post-boxed-title"><a href="course-sec" data-i18n="secTitle">Preparatory Course for Singapore-Cambridge Secondary Education Certificate (SEC)</a></h5>
+                                <div class="offset-top-20" style="flex: 1;">
+                                    <ul class="list-marked list-marked-primary" style="font-size: 14px; list-style: disc; padding-left: 20px;">
+                                        <li style="padding-left: 0;"><strong data-i18n="programDuration">Program Duration:</strong> <span data-i18n="fullTime">24 months Full-Time</span> (5 days per week, 6 hours per day)</li>
+                                        <li style="padding-left: 0;"><strong data-i18n="age">Age:</strong> 15 years old</li>
+                                        <li style="padding-left: 0;"><strong data-i18n="courseModules">Course Modules:</strong> <span data-i18n="secSubjectSelectionNote">Students will choose 5-8 subjects based on the Compulsory and Selective subject. The students taken subject should include English, Mathematics, Science and Humanity subject.</span></li>
+                                    </ul>
+                                </div>
+                                <div class="offset-top-30" style="margin-top: auto;">
+                                    <a class="btn btn-sm btn-primary btn-block" href="course-sec" data-i18n="viewDetails">View Details</a>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="cell-sm-6 cell-lg-3" style="display: flex;">
+                        <article class="post-boxed" style="display: flex; flex-direction: column; width: 100%;">
+                            <div class="post-boxed-img-wrap" style="background-color: #A51C30; padding: 30px; text-align: center; height: 108px; display: flex; align-items: center; justify-content: center;">
+                                <span class="icon novi-icon mdi mdi-certificate" style="font-size: 48px; color: white;"></span>
+                            </div>
+                            <div class="post-boxed-body" style="flex: 1; display: flex; flex-direction: column;">
+                                <h5 class="post-boxed-title"><a href="course-olevel" data-i18n="olevelTitle">Preparatory Course for Singapore-Cambridge General Certificate of Education (Ordinary Level) (Intensive)</a></h5>
+                                <div class="offset-top-20" style="flex: 1;">
+                                    <ul class="list-marked list-marked-primary" style="font-size: 14px; list-style: disc; padding-left: 20px;">
+                                        <li style="padding-left: 0;"><strong data-i18n="programDuration">Program Duration:</strong> <span data-i18n="fullTime">12 months Full-Time</span> (5 days per week, 6 hours per day)</li>
+                                        <li style="padding-left: 0;"><strong data-i18n="age">Age:</strong> 16 years old</li>
+                                        <li style="padding-left: 0;"><strong data-i18n="courseModules">Course Modules:</strong> <span data-i18n="subjectSelectionNote">Students will choose 5-8 subjects based on the Compulsory and Selective Modules.</span></li>
+                                    </ul>
+                                </div>
+                                <div class="offset-top-30" style="margin-top: auto;">
+                                    <a class="btn btn-sm btn-primary btn-block" href="course-olevel" data-i18n="viewDetails">View Details</a>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="cell-sm-6 cell-lg-3" style="display: flex;">
+                        <article class="post-boxed" style="display: flex; flex-direction: column; width: 100%;">
+                            <div class="post-boxed-img-wrap" style="background-color: #A51C30; padding: 30px; text-align: center; height: 108px; display: flex; align-items: center; justify-content: center;">
+                                <span class="icon novi-icon mdi mdi-trophy" style="font-size: 48px; color: white;"></span>
+                            </div>
+                            <div class="post-boxed-body" style="flex: 1; display: flex; flex-direction: column;">
+                                <h5 class="post-boxed-title"><a href="course-alevel" data-i18n="alevelTitle">Preparatory Course for Singapore-Cambridge General Certificate of Education (Advanced Level)</a></h5>
+                                <div class="offset-top-20" style="flex: 1;">
+                                    <ul class="list-marked list-marked-primary" style="font-size: 14px; list-style: disc; padding-left: 20px;">
+                                        <li style="padding-left: 0;"><strong data-i18n="programDuration">Program Duration:</strong> <span data-i18n="fullTime">24 months Full-Time</span> (5 days per week, 6 hours per day)</li>
+                                        <li style="padding-left: 0;"><strong data-i18n="age">Age:</strong> 16 years old</li>
+                                        <li style="padding-left: 0;"><strong data-i18n="courseModules">Course Modules:</strong> <span data-i18n="alevelSubjectSelectionNote">Students will choose 3H2 +1H1+GP or 4H2+GP based on the compulsory and selective Module.</span></li>
+                                    </ul>
+                                </div>
+                                <div class="offset-top-30" style="margin-top: auto;">
+                                    <a class="btn btn-sm btn-primary btn-block" href="course-alevel" data-i18n="viewDetails">View Details</a>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="cell-sm-6 cell-lg-3" style="display: flex;">
+                        <article class="post-boxed" style="display: flex; flex-direction: column; width: 100%;">
+                            <div class="post-boxed-img-wrap" style="background-color: #A51C30; padding: 30px; text-align: center; height: 108px; display: flex; align-items: center; justify-content: center;">
+                                <span class="icon novi-icon mdi mdi-earth" style="font-size: 48px; color: white;"></span>
+                            </div>
+                            <div class="post-boxed-body" style="flex: 1; display: flex; flex-direction: column;">
+                                <h5 class="post-boxed-title"><a href="course-ial" data-i18n="ialTitle">Preparatory Course for Pearson Edexcel International Advanced Level</a></h5>
+                                <div class="offset-top-20" style="flex: 1;">
+                                    <ul class="list-marked list-marked-primary" style="font-size: 14px; list-style: disc; padding-left: 20px;">
+                                        <li style="padding-left: 0;"><strong data-i18n="programDuration">Program Duration:</strong> <span data-i18n="fullTime">24 months Full-Time</span> (5 days per week, 6 hours per day)</li>
+                                        <li style="padding-left: 0;"><strong data-i18n="age">Age:</strong> 16 years old</li>
+                                        <li style="padding-left: 0;"><strong data-i18n="courseModules">Course Modules:</strong> <span data-i18n="ialSubjectSelectionNote">Students will select 2 compulsory subjects and at least 2 to 4 optional subjects to study.</span></li>
+                                    </ul>
+                                </div>
+                                <div class="offset-top-30" style="margin-top: auto;">
+                                    <a class="btn btn-sm btn-primary btn-block" href="course-ial" data-i18n="viewDetails">View Details</a>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+                <div class="offset-top-60 text-center">
+                    <a class="btn btn-primary btn-lg btn-icon btn-icon-right" href="course-grid" style="padding: 18px 50px !important; font-size: 18px !important;"><span data-i18n="viewAllPrograms">View All Programs</span><span class="icon fa-arrow-right" style="margin-left: 10px;"></span></a>
+                </div>
+            </div>
+        </section>
+        <section class="section novi-background bg-cover section-70 section-md-114 bg-catskill">
+            <div class="shell">
+                <div style="text-align: center; max-width: 900px; margin: 0 auto;">
+                    <h2 class="text-bold" data-i18n="studentLifeTitle">Student Life at Equistar</h2>
+                    <hr class="divider bg-madison" style="margin: 20px auto;">
+                    <div class="offset-top-30 offset-md-top-40">
+                        <p data-i18n="studentLifeIntro" style="font-size: 19px; color: #555; line-height: 1.7; max-width: 800px; margin: 0 auto;">Beyond academics, Equistar International College provides comprehensive support services, vibrant co-curricular activities, and a nurturing environment that promotes holistic student development and well-being.</p>
+                    </div>
+                </div>
+                <div class="range range-30 offset-top-50 text-left range-xs-center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+                    <div class="cell-sm-6 cell-lg-3" style="display: flex;">
+                        <article class="post-boxed" style="display: flex; flex-direction: column; width: 100%;">
+                            <div class="post-boxed-img-wrap" style="background-color: #A51C30; padding: 30px; text-align: center; height: 108px; display: flex; align-items: center; justify-content: center;">
+                                <span class="icon novi-icon mdi mdi-book-open-variant" style="font-size: 48px; color: white;"></span>
+                            </div>
+                            <div class="post-boxed-body" style="flex: 1; display: flex; flex-direction: column;">
+                                <h5 class="post-boxed-title"><a href="student-life" data-i18n="studentLife1Title">Life in Singapore</a></h5>
+                                <div class="offset-top-15" style="flex: 1;">
+                                    <p class="text-dark" data-i18n="studentLife1Desc">Essential regulations, student pass requirements, and local laws to ensure compliance and smooth living in Singapore.</p>
+                                </div>
+                                <div class="offset-top-20">
+                                    <a class="btn btn-sm btn-primary" href="student-life" data-i18n="learnMore">Learn More</a>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="cell-sm-6 cell-lg-3" style="display: flex;">
+                        <article class="post-boxed" style="display: flex; flex-direction: column; width: 100%;">
+                            <div class="post-boxed-img-wrap" style="background-color: #C72C3F; padding: 30px; text-align: center; height: 108px; display: flex; align-items: center; justify-content: center;">
+                                <span class="icon novi-icon mdi mdi-account-multiple" style="font-size: 48px; color: white;"></span>
+                            </div>
+                            <div class="post-boxed-body" style="flex: 1; display: flex; flex-direction: column;">
+                                <h5 class="post-boxed-title"><a href="student-support" data-i18n="studentLife3Title">Student Support</a></h5>
+                                <div class="offset-top-15" style="flex: 1;">
+                                    <p class="text-dark" data-i18n="studentLife3Desc">Comprehensive academic counseling, pastoral care, career services, and learning support throughout your journey.</p>
+                                </div>
+                                <div class="offset-top-20">
+                                    <a class="btn btn-sm btn-primary" href="student-support" data-i18n="learnMore">Learn More</a>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="cell-sm-6 cell-lg-3" style="display: flex;">
+                        <article class="post-boxed" style="display: flex; flex-direction: column; width: 100%;">
+                            <div class="post-boxed-img-wrap" style="background-color: #A51C30; padding: 30px; text-align: center; height: 108px; display: flex; align-items: center; justify-content: center;">
+                                <span class="icon novi-icon mdi mdi-chart-line" style="font-size: 48px; color: white;"></span>
+                            </div>
+                            <div class="post-boxed-body" style="flex: 1; display: flex; flex-direction: column;">
+                                <h5 class="post-boxed-title"><a href="student-outcomes" data-i18n="studentLife6Title">Learning Outcomes</a></h5>
+                                <div class="offset-top-15" style="flex: 1;">
+                                    <p class="text-dark" data-i18n="studentLife6Desc">Explore our students' academic achievements, graduation rates, and success metrics.</p>
+                                </div>
+                                <div class="offset-top-20">
+                                    <a class="btn btn-sm btn-primary" href="student-outcomes" data-i18n="learnMore">Learn More</a>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+                <div class="offset-top-60 text-center">
+                    <a class="btn btn-primary btn-lg btn-icon btn-icon-right" href="student-life" style="padding: 18px 50px !important; font-size: 18px !important;"><span data-i18n="exploreStudentLife">Explore Student Life</span><span class="icon fa-arrow-right" style="margin-left: 10px;"></span></a>
+                </div>
+            </div>
+        </section>
+        <section class="section novi-background bg-cover section-70 section-md-114 bg-default">
+            <div class="shell">
+                <div class="range range-65 range-xs-center">
+                    <div class="cell-md-8 text-md-left">
+                        <h2 class="text-bold" data-i18n="contactsGetInTouch">Get in Touch</h2>
+                        <hr class="divider bg-madison hr-md-left-0">
+                        <div class="offset-top-30 offset-md-top-30">
+                            <p data-i18n="contactsIntro">You can contact us any way that is convenient for you. We are available 24/7 via fax or email. You can also use a quick contact form below or visit us personally. We would be happy to answer your questions.</p>
+                        </div>
+                        <div class="offset-top-30">
+                            <form class="rd-mailform text-left" data-form-output="form-output-global" data-form-type="contact" method="post" action="bat/rd-mailform.php">
+                                <div class="range range-12">
+                                    <div class="cell-sm-6">
+                                        <div class="form-group"><label class="form-label form-label-outside" for="contact-me-name" data-i18n="contactsFirstName">First name</label><input class="form-control form-validation-inside" id="contact-me-name" type="text" name="name" data-constraints="@Required"></div>
+                                    </div>
+                                    <div class="cell-sm-6">
+                                        <div class="form-group"><label class="form-label form-label-outside" for="contact-me-last-name" data-i18n="contactsLastName">Last name</label><input class="form-control form-validation-inside" id="contact-me-last-name" type="text" name="last-name" data-constraints="@Required"></div>
+                                    </div>
+                                    <div class="cell-sm-6">
+                                        <div class="form-group"><label class="form-label form-label-outside" for="contact-me-email" data-i18n="contactsEmail">E-mail</label><input class="form-control form-validation-inside" id="contact-me-email" type="email" name="email" data-constraints="@Required @Email"></div>
+                                    </div>
+                                    <div class="cell-sm-6">
+                                        <div class="form-group"><label class="form-label form-label-outside" for="contact-me-phone" data-i18n="contactsPhone">Phone</label><input class="form-control form-validation-inside" id="contact-me-phone" type="text" name="phone" data-constraints="@Required @IsNumeric"></div>
+                                    </div>
+                                    <div class="cell-xs-12">
+                                        <div class="form-group"><label class="form-label form-label-outside" for="contact-me-message" data-i18n="contactsMessage">Message</label><textarea class="form-control form-validation-inside" id="contact-me-message" name="message" data-constraints="@Required" style="height: 220px"></textarea></div>
+                                    </div>
+                                </div>
+                                <div class="offset-top-20">
+                                    <label style="display: inline-flex; align-items: flex-start; gap: 8px; cursor: pointer;">
+                                        <input id="pdpa-consent" type="checkbox" style="margin-top: 4px;" required>
+                                        <span class="text-small text-muted" data-i18n="pdpaConsentText">ESIC is committed to safeguarding your personal data in compliance with the Personal Data Protection Act 2012. By providing your personal details and clicking the 'Send Message' button, you have authorised ESIC to share with you our marketing, advertising and promotional materials.</span>
+                                    </label>
+                                </div>
+                                <div class="text-center text-md-left offset-top-20"><button class="btn btn-primary" type="submit" id="contact-submit-btn" data-i18n="contactsSend" disabled>Send Message</button></div>
+                            </form>
+                            <script>
+                                (function() {
+                                    var consent = document.getElementById('pdpa-consent');
+                                    var submitBtn = document.getElementById('contact-submit-btn');
+                                    if (consent && submitBtn) {
+                                        var toggle = function() { submitBtn.disabled = !consent.checked; };
+                                        consent.addEventListener('change', toggle);
+                                        toggle();
+                                    }
+                                })();
+                            </script>
+                        </div>
+                    </div>
+                    <div class="cell-xs-10 cell-md-4 text-left">
+                        <aside class="aside inset-md-left-30">
+                            <div class="aside-item-2">
+                                <h6 class="text-bold" data-i18n="contactsPhonesTitle">Phones</h6>
+                                <div>
+                                    <div class="hr bg-gray-light offset-top-10"></div>
+                                </div>
+                                <div class="offset-top-15">
+                                    <ul class="list list-unstyled">
+                                        <li><span class="icon novi-icon icon-xs text-madison mdi mdi-phone text-middle"></span><a class="text-middle inset-left-10 text-dark" href="tel:+6562982749">+65 62982749</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="aside-item-2">
+                                <h6 class="text-bold">E-mail</h6>
+                                <div>
+                                    <div class="hr bg-gray-light offset-top-10"></div>
+                                </div>
+                                <div class="offset-top-15">
+                                    <ul class="list list-unstyled">
+                                        <li><span class="icon novi-icon icon-xs text-madison mdi mdi-email-outline text-middle"></span><a class="text-primary text-middle inset-left-10" href="mailto:info@esic.edu.sg">info@esic.edu.sg</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="aside-item-2">
+                                <h6 class="text-bold">Address</h6>
+                                <div>
+                                    <div class="hr bg-gray-light offset-top-10"></div>
+                                </div>
+                                <div class="offset-top-15">
+                                    <div class="unit unit-horizontal unit-spacing-xs">
+                                        <div class="unit-left"><span class="icon novi-icon icon-xs mdi mdi-map-marker text-madison"></span></div>
+                                        <div class="unit-body">
+                                            <p><a class="text-dark" href="#">1 Selegie Road #07-02, Singapore 188306</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="aside-item-2">
+                                <h6 class="text-bold">Opening Hours</h6>
+                                <div>
+                                    <div class="hr bg-gray-light offset-top-10"></div>
+                                </div>
+                                <div class="offset-top-15">
+                                    <div class="unit unit-horizontal unit-spacing-xs">
+                                        <div class="unit-left"><span class="icon novi-icon icon-xs mdi mdi-calendar-clock text-madison"></span></div>
+                                        <div class="unit-body">
+                                            <div>
+                                                <p>Mon-Fri: 8.30am-8.30pm</p>
+                                            </div>
+                                            <div>
+                                                <p>Sat-Sun: Closed</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="aside-item-2">
+                              
+                       
+                                </ul>
+                            </div>
+                        </aside>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <footer class="section page-footer">
+            <div class="novi-background bg-cover bg-default">
+              <div class="shell-wide">
+                <div class="hr bg-gray-light"></div>
+              </div>
+          
+              <div class="section-60" style="background: linear-gradient(135deg, #A51C30 0%, #b80924 100%) !important; color: #f8f9fa !important;">
+                <div class="shell" style="max-width: 1000px;">
+                  <div class="range range-30 range-lg-justify range-xs-center">
+                    <!-- ?:EduTrust + ?? -->
+                    <div class="cell-md-2 cell-lg-2 text-center">
+                      <img src="images/edutrust.webp" alt="EduTrust Certified" style="max-width: 180px; height: auto; opacity: 0.95;">
+                      <div class="offset-top-20">
+                      </div>
+                    </div>
+          
+                    <!-- ?:???? -->
+                    <div class="cell-xs-10 cell-md-5 cell-lg-4 text-lg-left">
+                      <h6 class="text-bold" style="color: white !important; font-size: 18px;">Contact us</h6>
+                      <div class="text-subline" style="background: rgba(255,255,255,0.3); height: 2px;"></div>
+                      <div class="offset-top-30">
+                        <ul class="list-unstyled contact-info list">
+                          <li>
+                            <div class="unit unit-horizontal unit-middle unit-spacing-xs">
+                              <div class="unit-left"><span class="icon novi-icon mdi mdi-phone text-middle icon-xs" style="color: rgba(255,255,255,0.8);"></span></div>
+                              <div class="unit-body"><a style="color: #f8f9fa !important; text-decoration: none;" href="tel:+6562982749">+65 62982749</a></div>
+                            </div>
+                          </li>
+                          <li>
+                            <div class="unit unit-horizontal unit-middle unit-spacing-xs">
+                              <div class="unit-left"><span class="icon novi-icon mdi mdi-map-marker text-middle icon-xs" style="color: rgba(255,255,255,0.8);"></span></div>
+                              <div class="unit-body text-left"><a style="color: #f8f9fa !important; text-decoration: none;" href="#">1 Selegie Road #07-02, Singapore 188306</a></div>
+                            </div>
+                          </li>
+                          <li>
+                            <div class="unit unit-horizontal unit-middle unit-spacing-xs">
+                              <div class="unit-left"><span class="icon novi-icon mdi mdi-email-open text-middle icon-xs" style="color: rgba(255,255,255,0.8);"></span></div>
+                              <div class="unit-body"><a style="color: #f8f9fa !important; text-decoration: none;" href="mailto:info@esic.edu.sg">info@esic.edu.sg</a></div>
+                            </div>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+          
+                    <!-- ?:Newsletter -->
+                    <div class="cell-xs-10 cell-md-8 cell-lg-4 text-lg-left">
+                      <h6 class="text-bold" style="color: white !important; font-size: 18px;">Newsletter</h6>
+                      <div class="text-subline" style="background: rgba(255,255,255,0.3); height: 2px;"></div>
+                      <div class="offset-top-30 text-left">
+                        <p style="color: #f8f9fa !important; line-height: 1.6;">Enter your email address to get the latest news, special events and student activities delivered right to your inbox.</p>
+                      </div>
+                      <div class="offset-top-10">
+                        <form class="rd-mailform form-subscribe" data-form-output="form-output-global" data-form-type="subscribe" method="post" action="bat/rd-mailform.php">
+                          <div class="form-group">
+                            <div class="input-group input-group-sm">
+                              <label class="form-label" for="form-email" style="color: #f8f9fa !important;">Your e-mail</label>
+                              <input class="form-control" id="form-email" type="email" name="email" data-constraints="@Required @Email" style="background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.3); color: white; border-radius: 4px;">
+                              <span class="input-group-btn">
+                                <button class="btn btn-sm btn-primary" type="submit" style="background: rgba(255,255,255,0.2); border: 1px solid rgba(255,255,255,0.3); color: white; border-radius: 4px;">Subscribe</button>
+                              </span>
+                            </div>
+                          </div>
+                          <div class="form-output"></div>
+                        </form>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+          
+              <div class="section-5 context-dark novi-background" style="background: linear-gradient(135deg, #A51C30 0%, #b80924 100%) !important;">
+                <div class="shell text-md-left">
+                  <p>� <span class="copyright-year">2019</span> All Rights Reserved. Terms of Use and <a href="privacy">Privacy Policy.</a><span> Equistar International College</span></p>
+                </div>
+              </div>
+            </div>
+          </footer>
+          
+          <script>
+            // ????
+            (function(){var el=document.querySelector(".copyright-year"); if(el){el.textContent=new Date().getFullYear();}})();
+          </script>    </div>
+   
+    <div class="snackbars" id="form-output-global"></div>
+    <script src="js/core.min.js"></script>
+    <script src="js/script.js"></script>
+    
+    <!-- Global Language Switcher -->
+    <script src="js/global-language.js"></script>
+    
+    <!-- Language Data (for calendar widgets) -->
+    <script src="js/language-data.js"></script>
+    
+    <!-- Upcoming Events Widget Script -->
+    <script>
+    (function() {
+        'use strict';
+        
+        function formatDateRange(start, end) {
+            const startDate = new Date(start + 'T00:00:00');
+            const endDate = new Date(end + 'T00:00:00');
+            const opts = { year: 'numeric', month: 'long', day: 'numeric' };
+            
+            if (start === end) {
+                const locale = window.languageManager ? window.languageManager.getText('dateLocale') : 'en-US';
+                return startDate.toLocaleDateString(locale, opts);
+            }
+            
+            const locale = window.languageManager ? window.languageManager.getText('dateLocale') : 'en-US';
+            return startDate.toLocaleDateString(locale, opts) + ' - ' + endDate.toLocaleDateString(locale, opts);
+        }
+        
+        function loadUpcomingEvents() {
+            try {
+                const languageManager = window.languageManager;
+                if (!languageManager) {
+                    setTimeout(loadUpcomingEvents, 100);
+                    return;
+                }
+                
+                // Inline event data
+                const events = [
+                    {"Title":"Teacher reporting","Start":"2025-01-01","End":"2025-01-04","All_day":true,"Month_block":"January"},
+                    {"Title":"Student reporting","Start":"2025-01-05","End":"2025-01-11","All_day":true,"Month_block":"January"},
+                    {"Title":"Entry test for new students; Orientationfor new student","Start":"2025-01-12","End":"2025-01-18","All_day":true,"Month_block":"January"},
+                    {"Title":"Chinese New Year Holiday Week","Start":"2025-01-26","End":"2025-01-31","All_day":true,"Month_block":"January"},
+                    {"Title":"Learing trip: NUS Youth programme(AM)","Start":"2025-02-16","End":"2025-02-22","All_day":true,"Month_block":"February"},
+                    {"Title":"Monthly Test","Start":"2025-02-23","End":"2025-02-27","All_day":true,"Month_block":"February"},
+                    {"Title":"Learning trip: NUS Youth programme(AM)","Start":"2025-03-09","End":"2025-03-15","All_day":true,"Month_block":"March"},
+                    {"Title":"Monthly Test","Start":"2025-03-16","End":"2025-03-20","All_day":true,"Month_block":"March"},
+                    {"Title":"Swimming Day @ Yio Chu Kang Swimming Complex (8:30AM ~ 12PM)","Start":"2025-03-30","End":"2025-03-31","All_day":true,"Month_block":"March"},
+                    {"Title":"April Fool","Start":"2025-04-01","End":"2025-04-02","All_day":true,"Month_block":"April"},
+                    {"Title":"Prelim Examination & Montly Test & Good Friday","Start":"2025-04-13","End":"2025-04-19","All_day":true,"Month_block":"April"},
+                    {"Title":"Prelim Examination","Start":"2025-04-20","End":"2025-04-26","All_day":true,"Month_block":"April"},
+                    {"Title":"Prelim Examination","Start":"2025-04-27","End":"2025-04-30","All_day":true,"Month_block":"April"},
+                    {"Title":"Labour Day","Start":"2025-05-01","End":"2025-05-02","All_day":true,"Month_block":"May"},
+                    {"Title":"Prelim Examination","Start":"2025-05-11","End":"2025-05-17","All_day":true,"Month_block":"May"},
+                    {"Title":"Prelim Examination","Start":"2025-05-18","End":"2025-05-24","All_day":true,"Month_block":"May"},
+                    {"Title":"Prelim Examination","Start":"2025-05-25","End":"2025-05-31","All_day":true,"Month_block":"May"},
+                    {"Title":"Study Break","Start":"2025-06-01","End":"2025-06-07","All_day":true,"Month_block":"June"},
+                    {"Title":"Study Break","Start":"2025-06-08","End":"2025-06-14","All_day":true,"Month_block":"June"},
+                    {"Title":"School Reopen","Start":"2025-06-15","End":"2025-06-21","All_day":true,"Month_block":"June"},
+                    {"Title":"June Holiday","Start":"2025-06-22","End":"2025-06-28","All_day":true,"Month_block":"June"},
+                    {"Title":"June Holiday","Start":"2025-06-29","End":"2025-06-30","All_day":true,"Month_block":"June"},
+                    {"Title":"June Holiday","Start":"2025-07-01","End":"2025-07-05","All_day":true,"Month_block":"July"},
+                    {"Title":"June Holiday","Start":"2025-07-06","End":"2025-07-12","All_day":true,"Month_block":"July"},
+                    {"Title":"June Holiday","Start":"2025-07-13","End":"2025-07-19","All_day":true,"Month_block":"July"},
+                    {"Title":"June Holiday","Start":"2025-07-20","End":"2025-07-26","All_day":true,"Month_block":"July"},
+                    {"Title":"June Holiday","Start":"2025-07-27","End":"2025-07-31","All_day":true,"Month_block":"July"},
+                    {"Title":"IELTS Test","Start":"2025-08-10","End":"2025-08-16","All_day":true,"Month_block":"August"},
+                    {"Title":"National Day","Start":"2025-08-09","End":"2025-08-10","All_day":true,"Month_block":"August"},
+                    {"Title":"Sports Day @ Bishan Stadium (8:30AM ~ 12PM)","Start":"2025-08-24","End":"2025-08-30","All_day":true,"Month_block":"August"},
+                    {"Title":"Mid-Autumn Festival","Start":"2025-09-07","End":"2025-09-13","All_day":true,"Month_block":"September"},
+                    {"Title":"School Holiday","Start":"2025-09-28","End":"2025-09-30","All_day":true,"Month_block":"September"},
+                    {"Title":"Teachers' Day","Start":"2025-10-01","End":"2025-10-02","All_day":true,"Month_block":"October"},
+                    {"Title":"Edx IAL Examination","Start":"2025-10-26","End":"2025-10-30","All_day":true,"Month_block":"October"},
+                    {"Title":"GCE A level & Edx IAL Examination","Start":"2025-11-02","End":"2025-11-08","All_day":true,"Month_block":"November"},
+                    {"Title":"GCE A level & Edx IAL Examination","Start":"2025-11-09","End":"2025-11-15","All_day":true,"Month_block":"November"},
+                    {"Title":"GCE A level & Edx IAL Examination","Start":"2025-11-16","End":"2025-11-22","All_day":true,"Month_block":"November"},
+                    {"Title":"GCE A level & Edx IAL Examination","Start":"2025-11-23","End":"2025-11-29","All_day":true,"Month_block":"November"},
+                    {"Title":"IELTS Test; Parent Meeting","Start":"2025-12-01","End":"2025-12-06","All_day":true,"Month_block":"December"},
+                    {"Title":"School Holiday","Start":"2025-12-21","End":"2025-12-27","All_day":true,"Month_block":"December"},
+                    {"Title":"School Holiday","Start":"2025-12-28","End":"2025-12-31","All_day":true,"Month_block":"December"}
+                ];
+                const today = new Date().toISOString().slice(0, 10);
+                
+                const upcoming = events
+                    .filter(function(e) { return e.End >= today; })
+                    .sort(function(a, b) { return a.Start.localeCompare(b.Start); })
+                    .slice(0, 3);
+                
+                const container = document.getElementById('upcoming-events');
+                if (!container) return;
+                
+                if (upcoming.length === 0) {
+                    container.innerHTML = '<div class="cell-xs-12 text-center"><p>' + languageManager.getText('noUpcomingEvents') + '</p></div>';
+                    return;
+                }
+                
+                const html = upcoming.map(function(event) {
+                    return '<div class="cell-sm-6 cell-lg-4">' +
+                        '<article class="post-boxed" style="height: 100%;">' +
+                        '<div class="post-boxed-img-wrap" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; text-align: center; min-height: 80px; display: flex; align-items: center; justify-content: center;">' +
+                        '<span class="icon novi-icon mdi mdi-calendar-clock" style="font-size: 40px; color: white;"></span>' +
+                        '</div>' +
+                        '<div class="post-boxed-body">' +
+                        '<h5 class="post-boxed-title"><a href="calendar">' + event.Title + '</a></h5>' +
+                        '<div class="offset-top-15">' +
+                        '<p class="text-dark"><span class="icon novi-icon mdi mdi-calendar text-madison"></span> ' + formatDateRange(event.Start, event.End) + '</p>' +
+                        '</div>' +
+                        '<div class="offset-top-20">' +
+                        '<a class="btn btn-sm btn-primary" href="calendar">View Calendar</a>' +
+                        '</div>' +
+                        '</div>' +
+                        '</article>' +
+                        '</div>';
+                }).join('');
+                
+                container.innerHTML = html;
+                
+            } catch (error) {
+                console.error('Failed to load upcoming events:', error);
+                const container = document.getElementById('upcoming-events');
+                if (container) {
+                    container.innerHTML = '<div class="cell-xs-12 text-center"><p>' + (window.languageManager ? window.languageManager.getText('unableToLoadEvents') : 'Unable to load event data') + '</p></div>';
+                }
+            }
+        }
+        
+        // Setup language toggle for homepage
+        function setupHomepageLanguageToggle() {
+            const languageToggle = document.getElementById('language-toggle');
+            if (languageToggle && window.languageManager) {
+                languageToggle.addEventListener('click', () => {
+                    window.languageManager.toggleLanguage();
+                    // Reload events to update language
+                    loadUpcomingEvents();
+                });
+            }
+        }
+        
+        // Load events when DOM is ready
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', function() {
+                loadUpcomingEvents();
+                setupHomepageLanguageToggle();
+            });
+        } else {
+            loadUpcomingEvents();
+            setupHomepageLanguageToggle();
+        }
+    })();
+    </script>
+</body>
+
+</html>

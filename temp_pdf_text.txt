@@ -1,0 +1,18 @@
+﻿python : Traceback (most recent call last):
+At C:\Users\yaoke\AppData\Local\Temp\ps-script-d9c723b4-0ec1-47de-bd62-c2c7971ce1ad.ps1:74 char:1
++ python -c "import sys; sys.path.insert(0, 'publicmain.github.io-main' ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "<string>", line 1, in <module>
+    import sys; sys.path.insert(0, 'publicmain.github.io-main'); from PyPDF2 import PdfReader; reader = PdfReader('publ
+icmain.github.io-main/files/11.C7 table.pdf'); text = ''; [text := text + page.extract_text() + '\n\n' for page in read
+er.pages]; print(text)
+                                                                                                        ~~~~~~~~~^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yaoke\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packa
+ges\Python313\site-packages\PyPDF2\_reader.py", line 317, in __init__
+    with open(stream, "rb") as fh:
+         ~~~~^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'publicmain.github.io-main/files/11.C7 table.pdf'
