@@ -1,0 +1,1763 @@
+[2025-11-06 15:55:38] === Mail Form Script Started ===
+[2025-11-06 15:55:38] POST Data | Data: Array
+(
+    [name] => YAO
+    [last-name] => KEXIANG
+    [email] => yaokexiang1bc@gmail.com
+    [phone] => 84333457
+    [message] => dsad
+    [form-type] => contact
+    [counter] => 0
+)
+
+[2025-11-06 15:55:38] FILES Data | Data: Array
+(
+)
+
+[2025-11-06 15:55:38] Script Directory | Data: /home/esicedus/public_html/bat
+[2025-11-06 15:55:38] Config Path | Data: /home/esicedus/public_html/bat/rd-mailform.config.json
+[2025-11-06 15:55:38] Config File Exists | Data: 1
+[2025-11-06 15:55:38] Config File Content Length | Data: 145
+[2025-11-06 15:55:38] Config Decoded | Data: Array
+(
+    [recipientEmail] => info@esic.edu.sg
+    [useSmtp] => 1
+    [host] => mail.esic.edu.sg
+    [port] => 465
+    [username] => info@esic.edu.sg
+    [password] => equistar2025
+)
+
+[2025-11-06 07:55:38] Entering try block
+[2025-11-06 07:55:38] PHPMailer Path | Data: /home/esicedus/public_html/bat/phpmailer/PHPMailerAutoload.php
+[2025-11-06 07:55:38] PHPMailer Exists | Data: 1
+[2025-11-06 15:56:31] === Mail Form Script Started ===
+[2025-11-06 15:56:31] POST Data | Data: Array
+(
+    [name] => YAO
+    [last-name] => KEXIANG
+    [email] => yaokexiang1bc@gmail.com
+    [phone] => 84333457
+    [message] => dsa
+    [form-type] => contact
+    [counter] => 0
+)
+
+[2025-11-06 15:56:31] FILES Data | Data: Array
+(
+)
+
+[2025-11-06 15:56:31] Script Directory | Data: /home/esicedus/public_html/bat
+[2025-11-06 15:56:31] Config Path | Data: /home/esicedus/public_html/bat/rd-mailform.config.json
+[2025-11-06 15:56:31] Config File Exists | Data: 1
+[2025-11-06 15:56:31] Config File Content Length | Data: 145
+[2025-11-06 15:56:31] Config Decoded | Data: Array
+(
+    [recipientEmail] => info@esic.edu.sg
+    [useSmtp] => 1
+    [host] => mail.esic.edu.sg
+    [port] => 465
+    [username] => info@esic.edu.sg
+    [password] => equistar2025
+)
+
+[2025-11-06 07:56:31] Entering try block
+[2025-11-06 07:56:31] PHPMailer Path | Data: /home/esicedus/public_html/bat/phpmailer/PHPMailerAutoload.php
+[2025-11-06 07:56:31] PHPMailer Exists | Data: 1
+[2025-11-06 15:58:22] === Mail Form Script Started ===
+[2025-11-06 15:58:22] POST Data | Data: Array
+(
+    [name] => YAO
+    [last-name] => KEXIANG
+    [email] => yaokexiang1bc@gmail.com
+    [phone] => 84333457
+    [message] => das
+    [form-type] => contact
+    [counter] => 0
+)
+
+[2025-11-06 15:58:22] FILES Data | Data: Array
+(
+)
+
+[2025-11-06 15:58:22] Script Directory | Data: /home/esicedus/public_html/bat
+[2025-11-06 15:58:22] Config Path | Data: /home/esicedus/public_html/bat/rd-mailform.config.json
+[2025-11-06 15:58:22] Config File Exists | Data: 1
+[2025-11-06 15:58:22] Config File Content Length | Data: 145
+[2025-11-06 15:58:22] Config Decoded | Data: Array
+(
+    [recipientEmail] => info@esic.edu.sg
+    [useSmtp] => 1
+    [host] => mail.esic.edu.sg
+    [port] => 465
+    [username] => info@esic.edu.sg
+    [password] => equistar2025
+)
+
+[2025-11-06 07:58:22] Entering try block
+[2025-11-06 07:58:22] PHPMailer Path | Data: /home/esicedus/public_html/bat/phpmailer/PHPMailerAutoload.php
+[2025-11-06 07:58:22] PHPMailer Exists | Data: 1
+[2025-11-06 07:58:22] === FATAL ERROR ===
+[2025-11-06 07:58:22] Error Type | Data: 64
+[2025-11-06 07:58:22] Error Message | Data: __autoload() is no longer supported, use spl_autoload_register() instead
+[2025-11-06 07:58:22] Error File | Data: /home/esicedus/public_html/bat/phpmailer/PHPMailerAutoload.php
+[2025-11-06 07:58:22] Error Line | Data: 45
+[2025-11-06 15:58:58] === Mail Form Script Started ===
+[2025-11-06 15:58:58] POST Data | Data: Array
+(
+    [name] => YAO
+    [last-name] => KEXIANG
+    [email] => yaokexiang1bc@gmail.com
+    [phone] => 84333457
+    [message] => ds
+    [form-type] => contact
+    [counter] => 0
+)
+
+[2025-11-06 15:58:58] FILES Data | Data: Array
+(
+)
+
+[2025-11-06 15:58:58] Script Directory | Data: /home/esicedus/public_html/bat
+[2025-11-06 15:58:58] Config Path | Data: /home/esicedus/public_html/bat/rd-mailform.config.json
+[2025-11-06 15:58:58] Config File Exists | Data: 1
+[2025-11-06 15:58:58] Config File Content Length | Data: 145
+[2025-11-06 15:58:58] Config Decoded | Data: Array
+(
+    [recipientEmail] => info@esic.edu.sg
+    [useSmtp] => 1
+    [host] => mail.esic.edu.sg
+    [port] => 465
+    [username] => info@esic.edu.sg
+    [password] => equistar2025
+)
+
+[2025-11-06 07:58:58] Entering try block
+[2025-11-06 07:58:58] PHPMailer Path | Data: /home/esicedus/public_html/bat/phpmailer/PHPMailerAutoload.php
+[2025-11-06 07:58:58] PHPMailer Exists | Data: 1
+[2025-11-06 07:58:58] === FATAL ERROR ===
+[2025-11-06 07:58:58] Error Type | Data: 64
+[2025-11-06 07:58:58] Error Message | Data: __autoload() is no longer supported, use spl_autoload_register() instead
+[2025-11-06 07:58:58] Error File | Data: /home/esicedus/public_html/bat/phpmailer/PHPMailerAutoload.php
+[2025-11-06 07:58:58] Error Line | Data: 45
+=== Log Test ===
+[2025-11-06 16:02:07] === Mail Form Script Started ===
+[2025-11-06 16:02:07] POST Data | Data: Array
+(
+    [name] => YAO
+    [last-name] => KEXIANG
+    [email] => yaokexiang1bc@gmail.com
+    [phone] => 84333457
+    [message] => dsada
+    [form-type] => contact
+    [counter] => 0
+)
+
+[2025-11-06 16:02:07] FILES Data | Data: Array
+(
+)
+
+[2025-11-06 16:02:07] Script Directory | Data: /home/esicedus/public_html/bat
+[2025-11-06 16:02:07] Config Path | Data: /home/esicedus/public_html/bat/rd-mailform.config.json
+[2025-11-06 16:02:07] Config File Exists | Data: 1
+[2025-11-06 16:02:07] Config File Content Length | Data: 145
+[2025-11-06 16:02:07] Config Decoded | Data: Array
+(
+    [recipientEmail] => info@esic.edu.sg
+    [useSmtp] => 1
+    [host] => mail.esic.edu.sg
+    [port] => 465
+    [username] => info@esic.edu.sg
+    [password] => equistar2025
+)
+
+[2025-11-06 08:02:07] Entering try block
+[2025-11-06 08:02:07] PHPMailer Path | Data: /home/esicedus/public_html/bat/phpmailer/PHPMailerAutoload.php
+[2025-11-06 08:02:07] PHPMailer Exists | Data: 1
+[2025-11-06 08:02:07] === FATAL ERROR ===
+[2025-11-06 08:02:07] Error Type | Data: 64
+[2025-11-06 08:02:07] Error Message | Data: __autoload() is no longer supported, use spl_autoload_register() instead
+[2025-11-06 08:02:07] Error File | Data: /home/esicedus/public_html/bat/phpmailer/PHPMailerAutoload.php
+[2025-11-06 08:02:07] Error Line | Data: 47
+=== Log Test ===
+[2025-11-06 16:04:47] === Mail Form Script Started ===
+[2025-11-06 16:04:47] POST Data | Data: Array
+(
+    [name] => YAO
+    [last-name] => KEXIANG
+    [email] => yaokexiang1bc@gmail.com
+    [phone] => 84333457
+    [message] => rde
+    [form-type] => contact
+    [counter] => 0
+)
+
+[2025-11-06 16:04:47] FILES Data | Data: Array
+(
+)
+
+[2025-11-06 16:04:47] Script Directory | Data: /home/esicedus/public_html/bat
+[2025-11-06 16:04:47] Config Path | Data: /home/esicedus/public_html/bat/rd-mailform.config.json
+[2025-11-06 16:04:47] Config File Exists | Data: 1
+[2025-11-06 16:04:47] Config File Content Length | Data: 145
+[2025-11-06 16:04:47] Config Decoded | Data: Array
+(
+    [recipientEmail] => info@esic.edu.sg
+    [useSmtp] => 1
+    [host] => mail.esic.edu.sg
+    [port] => 465
+    [username] => info@esic.edu.sg
+    [password] => equistar2025
+)
+
+[2025-11-06 08:04:47] Entering try block
+[2025-11-06 08:04:47] PHPMailer Path | Data: /home/esicedus/public_html/bat/phpmailer/PHPMailerAutoload.php
+[2025-11-06 08:04:47] PHPMailer Exists | Data: 1
+[2025-11-06 08:04:47] PHPMailer file included
+[2025-11-06 08:04:47] PHPMailer class exists
+[2025-11-06 08:04:47] phpmailerException class exists
+[2025-11-06 08:04:47] PHPMailer loaded successfully
+[2025-11-06 08:04:47] Recipients | Data: info@esic.edu.sg
+[2025-11-06 08:04:47] Email Addresses Matched | Data: 1
+[2025-11-06 08:04:47] Remote IP Address | Data: 103.252.202.218
+[2025-11-06 08:04:47] Template Path | Data: /home/esicedus/public_html/bat/rd-mailform.tpl
+[2025-11-06 08:04:47] Template Exists | Data: 1
+[2025-11-06 08:04:47] Template Loaded | Data: 9883 bytes
+[2025-11-06 08:04:47] Form Type | Data: contact
+[2025-11-06 08:04:47] Subject | Data: A message from your site visitor
+[2025-11-06 08:04:47] Creating PHPMailer instance
+[2025-11-06 08:04:47] PHPMailer instance created
+[2025-11-06 08:04:47] Configuring SMTP
+[2025-11-06 08:04:47] SMTP Host | Data: mail.esic.edu.sg
+[2025-11-06 08:04:47] SMTP Port | Data: 465
+[2025-11-06 08:04:47] SMTP Auth | Data: enabled
+[2025-11-06 08:04:47] SMTP Secure | Data: SSL
+[2025-11-06 08:04:47] SMTP Username | Data: info@esic.edu.sg
+[2025-11-06 08:04:47] SMTP Password | Data: ***hidden***
+[2025-11-06 08:04:47] SMTP Configuration Complete
+[2025-11-06 08:04:47] From Address (SMTP) | Data: info@esic.edu.sg
+[2025-11-06 08:04:47] From Name | Data: YAO
+[2025-11-06 08:04:47] Reply-To | Data: yaokexiang1bc@gmail.com (YAO)
+[2025-11-06 08:04:47] Added Recipient | Data: info@esic.edu.sg
+[2025-11-06 08:04:47] Mail Configuration Complete
+[2025-11-06 08:04:47] Attempting to send email...
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: SERVER -> CLIENT: 220-biz114.vodien.com ESMTP Exim 4.96.1 #2 Thu, 06 Nov 2025 16:04:47 +0800 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: EHLO www.esic.edu.sg
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: SERVER -> CLIENT: 250-biz114.vodien.com Hello biz114.vodien.com [119.31.236.131]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: AUTH LOGIN
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: aW5mb0Blc2ljLmVkdS5zZw==
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: ZXF1aXN0YXIyMDI1
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: SERVER -> CLIENT: 235 Authentication succeeded
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: MAIL FROM:<info@esic.edu.sg>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: SERVER -> CLIENT: 250 OK
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: RCPT TO:<info@esic.edu.sg>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: SERVER -> CLIENT: 250 Accepted
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: DATA
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: Date: Thu, 6 Nov 2025 08:04:47 +0000
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: To: info@esic.edu.sg
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: From: YAO <info@esic.edu.sg>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: Reply-To: YAO <yaokexiang1bc@gmail.com>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: Subject: A message from your site visitor
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: Message-ID: <6f0571ef84fade546b5cacf431adf565@www.esic.edu.sg>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: X-Priority: 3
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.9 (https://github.com/PHPMailer/PHPMailer/)
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: MIME-Version: 1.0
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: 	boundary="b1_6f0571ef84fade546b5cacf431adf565"
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: --b1_6f0571ef84fade546b5cacf431adf565
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: Notification
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                       
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                     
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                   
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                   
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                     
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                       
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                          
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                          
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           Hi, someone left a message for you at www.esic.edu.sg 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                          
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                             
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                             
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           	A message from your site visitor
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                             
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       Email:
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       yaokexiang1bc@gmail.com 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                      
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   	
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                      
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   	
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                      
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       Name:
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       YAO
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   	
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                      
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       Last-name:
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       KEXIANG
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   	
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                      
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       Phone:
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       84333457
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   	                                    
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 Message:
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 rde   
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                             
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                       
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                     
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                   
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:               
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:             
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:             
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:               
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:             
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:             
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:               
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                   
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                     This is an automatically generated email, please do not reply.
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: --b1_6f0571ef84fade546b5cacf431adf565
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: Content-Type: text/html; charset=us-ascii
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: <html xmlns="http://www.w3.org/1999/xhtml">
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:   <head> 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     <meta name="viewport" content="initial-scale=1.0" />
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     <meta name="format-detection" content="telephone=no" />
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     <title>A message from your site visitor</title>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     <style type="text/css">  
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     #outlook a {
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       padding: 0;
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     }
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     body {
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       width: 100% !important;
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       -webkit-text-size-adjust: 100%;
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       -ms-text-size-adjust: 100%;
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       margin: 0;
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       padding: 0;
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     }
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     .ExternalClass {
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       width: 100%;
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     }
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     .ExternalClass,
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     .ExternalClass span,
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     .ExternalClass font,
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     .ExternalClass td,
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     .ExternalClass div {
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       line-height: 100%;
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     }
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     .ExternalClass p {
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       line-height: inherit;
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     }
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     #body-layout {
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       margin: 0;
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       padding: 0;
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       width: 100% !important;
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       line-height: 100% !important;
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     }
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     img {
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       display: block;
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       outline: none;
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       text-decoration: none;
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       -ms-interpolation-mode: bicubic;
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     }
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     a img {
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       border: none;
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     }
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     table td {
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       border-collapse: collapse;
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     }
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     table {
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       border-collapse: collapse;
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       mso-table-lspace: 0pt;
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       mso-table-rspace: 0pt;
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     }
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     a {
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       color: orange;
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       outline: none;
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     }
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     </style>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:   </head>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:   <body id="body-layout" style="background: #406c8d;">
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       <tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:         <td align="center" valign="top" style="padding: 0 15px;background: #406c8d;">
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:           <table align="center" cellpadding="0" cellspacing="0" border="0">
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:             <tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:               <td height="15" style="height: 15px; line-height:15px;"></td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:             </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:             <tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:               <td width="600" align="center" valign="top" style="border-radius: 4px; overflow: hidden; box-shadow: 3px 3px 6px 0 rgba(0,0,0,0.2);background: #dde1e6;">
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                 <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                   <tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                     <td align="center" valign="top" style="border-top-left-radius: 4px; border-top-right-radius: 4px; overflow: hidden; padding: 0 20px;background: #302f35;">
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                       <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         <tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           <td height="30" style="height: 30px; line-height:30px;"></td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         <tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           <td align="left" valign="top" style="font-family: Arial, sans-serif; font-size: 32px; mso-line-height-rule: exactly; line-height: 32px; font-weight: 400; letter-spacing: 1px;color: #ffffff;">Notification</td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         <tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           <td height="30" style="height: 30px; line-height:30px;"></td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                       </table>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                     </td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                   </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                   <tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                     <td align="center" valign="top" style="padding: 0 20px;">
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                       <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         <tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           <td height="30" style="height: 30px; line-height:30px;"></td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         </tr> 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         <tr> 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           <td align="left" valign="top" style="font-family: Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 22px; font-weight: 400;color: #302f35;">Hi, someone left a message for you at www.esic.edu.sg</td> 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         <tr> 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           <td height="20" style="height: 20px; line-height:20px;"></td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         <tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           <td align="center" valign="top">
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                             <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               <tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 <td align="center" valign="top" style="background: #d1d5da;">
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     <tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       <td height="1" style="height: 1px; line-height:1px;"></td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   </table>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 </td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               <tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 <td align="center" valign="top" style="background: #e4e6e9;">
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     <tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       <td height="2" style="height: 2px; line-height:2px;"></td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   </table>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 </td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                             </table>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           </td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         <tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           <td height="20" style="height: 20px; line-height:20px;"></td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         <tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           <td align="left" valign="top" style="font-family: Arial, sans-serif; font-size: 24px; mso-line-height-rule: exactly; line-height: 30px; font-weight: 700;color: #302f35;">
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           	A message from your site visitor
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           </td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         <tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           <td height="20" style="height: 20px; line-height:20px;"></td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         <tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           <td align="center" valign="top">
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                             <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               <tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 <td align="center" valign="top">
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     <tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       <td width="110" align="left" valign="top" style="padding: 0 10px 0 0;font-family: Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 20px; font-weight: 400;color: #302f35;font-weight: 700;">Email:</td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       <td align="left" valign="top" style="font-family: Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 20px; font-weight: 400;color: #302f35;">yaokexiang1bc@gmail.com</td> 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     </tr> 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   	<!-- #{BeginInfo} -->
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     <tr> 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       <td width="110" align="left" valign="top" style="padding: 0 10px 0 0;font-family: Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 20px; font-weight: 400;color: #302f35;font-weight: 700;"><!-- #{InfoState} --></td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       <td align="left" valign="top" style="font-family: Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 20px; font-weight: 400;color: #302f35;"><!-- #{InfoDescription} --></td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   	
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     <tr> 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       <td width="110" align="left" valign="top" style="padding: 0 10px 0 0;font-family: Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 20px; font-weight: 400;color: #302f35;font-weight: 700;">Name:</td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       <td align="left" valign="top" style="font-family: Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 20px; font-weight: 400;color: #302f35;">YAO</td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   	
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     <tr> 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       <td width="110" align="left" valign="top" style="padding: 0 10px 0 0;font-family: Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 20px; font-weight: 400;color: #302f35;font-weight: 700;">Last-name:</td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       <td align="left" valign="top" style="font-family: Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 20px; font-weight: 400;color: #302f35;">KEXIANG</td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   	
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     <tr> 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       <td width="110" align="left" valign="top" style="padding: 0 10px 0 0;font-family: Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 20px; font-weight: 400;color: #302f35;font-weight: 700;">Phone:</td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       <td align="left" valign="top" style="font-family: Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 20px; font-weight: 400;color: #302f35;">84333457</td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   	<!-- #{EndInfo} -->                                    
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   </table>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 </td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               <tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 <td height="12" style="height: 12px; line-height:12px;"></td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               <tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 <td align="left" valign="top" style="font-family: Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 20px; font-weight: 400;color: #302f35;font-weight: 700;">Message:</td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               <tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 <td align="left" valign="top" style="font-family: Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 20px; font-weight: 400;color: #302f35;">
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 rde   
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 </td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                             </table>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           </td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         <tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           <td height="40" style="height: 40px; line-height:40px;"></td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                       </table>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                     </td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                   </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                 </table>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:               </td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:             </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:             <tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:               <td height="20" style="height: 20px; line-height:20px;"></td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:             </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:             <tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:               <td width="600" align="center" valign="top">
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                 <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                   <tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                     <td align="center" valign="top" style="font-family: Arial, sans-serif; font-size: 12px; mso-line-height-rule: exactly; line-height: 18px; font-weight: 400;color: #a1b4c4;">This is an automatically generated email, please do not reply.</td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                   </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                 </table>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:               </td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:             </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:             <tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:               <td height="20" style="height: 20px; line-height:20px;"></td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:             </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:           </table>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:         </td>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       </tr>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     </table>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:   </body>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: </html>
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: --b1_6f0571ef84fade546b5cacf431adf565--
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: 
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: .
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: SERVER -> CLIENT: 250 OK id=1vGuz9-003MqL-2d
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: QUIT
+
+[2025-11-06 08:04:47] SMTP Debug (Level 2) | Data: SERVER -> CLIENT: 221 biz114.vodien.com closing connection
+
+[2025-11-06 08:04:47] SUCCESS: Email sent successfully
+=== Log Test ===
+[2025-11-06 16:05:19] === Mail Form Script Started ===
+[2025-11-06 16:05:19] POST Data | Data: Array
+(
+    [email] => yaokexiang1bc@gmail.com
+    [form-type] => subscribe
+    [counter] => 1
+)
+
+[2025-11-06 16:05:19] FILES Data | Data: Array
+(
+)
+
+[2025-11-06 16:05:19] Script Directory | Data: /home/esicedus/public_html/bat
+[2025-11-06 16:05:19] Config Path | Data: /home/esicedus/public_html/bat/rd-mailform.config.json
+[2025-11-06 16:05:19] Config File Exists | Data: 1
+[2025-11-06 16:05:19] Config File Content Length | Data: 145
+[2025-11-06 16:05:19] Config Decoded | Data: Array
+(
+    [recipientEmail] => info@esic.edu.sg
+    [useSmtp] => 1
+    [host] => mail.esic.edu.sg
+    [port] => 465
+    [username] => info@esic.edu.sg
+    [password] => equistar2025
+)
+
+[2025-11-06 08:05:19] Entering try block
+[2025-11-06 08:05:19] PHPMailer Path | Data: /home/esicedus/public_html/bat/phpmailer/PHPMailerAutoload.php
+[2025-11-06 08:05:19] PHPMailer Exists | Data: 1
+[2025-11-06 08:05:19] PHPMailer file included
+[2025-11-06 08:05:19] PHPMailer class exists
+[2025-11-06 08:05:19] phpmailerException class exists
+[2025-11-06 08:05:19] PHPMailer loaded successfully
+[2025-11-06 08:05:19] Recipients | Data: info@esic.edu.sg
+[2025-11-06 08:05:19] Email Addresses Matched | Data: 1
+[2025-11-06 08:05:19] Remote IP Address | Data: 103.252.202.218
+[2025-11-06 08:05:19] Template Path | Data: /home/esicedus/public_html/bat/rd-mailform.tpl
+[2025-11-06 08:05:19] Template Exists | Data: 1
+[2025-11-06 08:05:19] Template Loaded | Data: 9883 bytes
+[2025-11-06 08:05:19] Form Type | Data: subscribe
+[2025-11-06 08:05:19] Subject | Data: Subscribe request
+[2025-11-06 08:05:19] Creating PHPMailer instance
+[2025-11-06 08:05:19] PHPMailer instance created
+[2025-11-06 08:05:19] Configuring SMTP
+[2025-11-06 08:05:19] SMTP Host | Data: mail.esic.edu.sg
+[2025-11-06 08:05:19] SMTP Port | Data: 465
+[2025-11-06 08:05:19] SMTP Auth | Data: enabled
+[2025-11-06 08:05:19] SMTP Secure | Data: SSL
+[2025-11-06 08:05:19] SMTP Username | Data: info@esic.edu.sg
+[2025-11-06 08:05:19] SMTP Password | Data: ***hidden***
+[2025-11-06 08:05:19] SMTP Configuration Complete
+[2025-11-06 08:05:19] From Address (SMTP) | Data: info@esic.edu.sg
+[2025-11-06 08:05:19] From Name | Data: Site Visitor (default)
+[2025-11-06 08:05:19] Reply-To | Data: yaokexiang1bc@gmail.com (Site Visitor)
+[2025-11-06 08:05:19] Added Recipient | Data: info@esic.edu.sg
+[2025-11-06 08:05:19] Mail Configuration Complete
+[2025-11-06 08:05:19] Attempting to send email...
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: SERVER -> CLIENT: 220-biz114.vodien.com ESMTP Exim 4.96.1 #2 Thu, 06 Nov 2025 16:05:24 +0800 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: EHLO www.esic.edu.sg
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: SERVER -> CLIENT: 250-biz114.vodien.com Hello biz114.vodien.com [119.31.236.131]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: AUTH LOGIN
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: aW5mb0Blc2ljLmVkdS5zZw==
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: ZXF1aXN0YXIyMDI1
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: SERVER -> CLIENT: 235 Authentication succeeded
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: MAIL FROM:<info@esic.edu.sg>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: SERVER -> CLIENT: 250 OK
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: RCPT TO:<info@esic.edu.sg>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: SERVER -> CLIENT: 250 Accepted
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: DATA
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: Date: Thu, 6 Nov 2025 08:05:19 +0000
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: To: info@esic.edu.sg
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: From: Site Visitor <info@esic.edu.sg>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: Reply-To: Site Visitor <yaokexiang1bc@gmail.com>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: Subject: Subscribe request
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: Message-ID: <9fd0f92fc20eb60ce4a32f8be98de00e@www.esic.edu.sg>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: X-Priority: 3
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.9 (https://github.com/PHPMailer/PHPMailer/)
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: MIME-Version: 1.0
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: 	boundary="b1_9fd0f92fc20eb60ce4a32f8be98de00e"
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: --b1_9fd0f92fc20eb60ce4a32f8be98de00e
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: Notification
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                       
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                     
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                   
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                   
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                     
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                       
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                          
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                          
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           Hi, someone left a message for you at www.esic.edu.sg 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                          
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                             
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                             
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           	Subscribe request
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                             
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       Email:
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       yaokexiang1bc@gmail.com 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                      
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   	
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                      
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   	                                    
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                    
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                             
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                       
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                     
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                   
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:               
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:             
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:             
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:               
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:             
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:             
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:               
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                   
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                     This is an automatically generated email, please do not reply.
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: --b1_9fd0f92fc20eb60ce4a32f8be98de00e
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: Content-Type: text/html; charset=us-ascii
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: <html xmlns="http://www.w3.org/1999/xhtml">
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:   <head> 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     <meta name="viewport" content="initial-scale=1.0" />
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     <meta name="format-detection" content="telephone=no" />
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     <title>Subscribe request</title>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     <style type="text/css">  
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     #outlook a {
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       padding: 0;
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     }
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     body {
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       width: 100% !important;
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       -webkit-text-size-adjust: 100%;
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       -ms-text-size-adjust: 100%;
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       margin: 0;
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       padding: 0;
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     }
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     .ExternalClass {
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       width: 100%;
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     }
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     .ExternalClass,
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     .ExternalClass span,
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     .ExternalClass font,
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     .ExternalClass td,
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     .ExternalClass div {
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       line-height: 100%;
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     }
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     .ExternalClass p {
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       line-height: inherit;
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     }
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     #body-layout {
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       margin: 0;
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       padding: 0;
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       width: 100% !important;
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       line-height: 100% !important;
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     }
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     img {
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       display: block;
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       outline: none;
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       text-decoration: none;
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       -ms-interpolation-mode: bicubic;
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     }
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     a img {
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       border: none;
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     }
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     table td {
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       border-collapse: collapse;
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     }
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     table {
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       border-collapse: collapse;
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       mso-table-lspace: 0pt;
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       mso-table-rspace: 0pt;
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     }
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     a {
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       color: orange;
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       outline: none;
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     }
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     </style>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:   </head>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:   <body id="body-layout" style="background: #406c8d;">
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       <tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:         <td align="center" valign="top" style="padding: 0 15px;background: #406c8d;">
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:           <table align="center" cellpadding="0" cellspacing="0" border="0">
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:             <tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:               <td height="15" style="height: 15px; line-height:15px;"></td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:             </tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:             <tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:               <td width="600" align="center" valign="top" style="border-radius: 4px; overflow: hidden; box-shadow: 3px 3px 6px 0 rgba(0,0,0,0.2);background: #dde1e6;">
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                 <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                   <tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                     <td align="center" valign="top" style="border-top-left-radius: 4px; border-top-right-radius: 4px; overflow: hidden; padding: 0 20px;background: #302f35;">
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                       <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         <tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           <td height="30" style="height: 30px; line-height:30px;"></td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         </tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         <tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           <td align="left" valign="top" style="font-family: Arial, sans-serif; font-size: 32px; mso-line-height-rule: exactly; line-height: 32px; font-weight: 400; letter-spacing: 1px;color: #ffffff;">Notification</td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         </tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         <tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           <td height="30" style="height: 30px; line-height:30px;"></td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         </tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                       </table>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                     </td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                   </tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                   <tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                     <td align="center" valign="top" style="padding: 0 20px;">
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                       <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         <tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           <td height="30" style="height: 30px; line-height:30px;"></td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         </tr> 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         <tr> 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           <td align="left" valign="top" style="font-family: Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 22px; font-weight: 400;color: #302f35;">Hi, someone left a message for you at www.esic.edu.sg</td> 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         </tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         <tr> 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           <td height="20" style="height: 20px; line-height:20px;"></td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         </tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         <tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           <td align="center" valign="top">
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                             <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               <tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 <td align="center" valign="top" style="background: #d1d5da;">
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     <tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       <td height="1" style="height: 1px; line-height:1px;"></td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     </tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   </table>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 </td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               </tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               <tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 <td align="center" valign="top" style="background: #e4e6e9;">
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     <tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       <td height="2" style="height: 2px; line-height:2px;"></td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     </tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   </table>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 </td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               </tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                             </table>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           </td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         </tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         <tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           <td height="20" style="height: 20px; line-height:20px;"></td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         </tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         <tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           <td align="left" valign="top" style="font-family: Arial, sans-serif; font-size: 24px; mso-line-height-rule: exactly; line-height: 30px; font-weight: 700;color: #302f35;">
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           	Subscribe request
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           </td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         </tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         <tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           <td height="20" style="height: 20px; line-height:20px;"></td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         </tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         <tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           <td align="center" valign="top">
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                             <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               <tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 <td align="center" valign="top">
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     <tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       <td width="110" align="left" valign="top" style="padding: 0 10px 0 0;font-family: Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 20px; font-weight: 400;color: #302f35;font-weight: 700;">Email:</td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       <td align="left" valign="top" style="font-family: Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 20px; font-weight: 400;color: #302f35;">yaokexiang1bc@gmail.com</td> 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     </tr> 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   	<!-- #{BeginInfo} -->
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     <tr> 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       <td width="110" align="left" valign="top" style="padding: 0 10px 0 0;font-family: Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 20px; font-weight: 400;color: #302f35;font-weight: 700;"><!-- #{InfoState} --></td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                       <td align="left" valign="top" style="font-family: Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 20px; font-weight: 400;color: #302f35;"><!-- #{InfoDescription} --></td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                     </tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   	<!-- #{EndInfo} -->                                    
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                   </table>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 </td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               </tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               <tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 <td height="12" style="height: 12px; line-height:12px;"></td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               </tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               <tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 <td align="left" valign="top" style="font-family: Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 20px; font-weight: 400;color: #302f35;font-weight: 700;"><!-- #{MessageState} --></td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               </tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               <tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 <td align="left" valign="top" style="font-family: Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 20px; font-weight: 400;color: #302f35;">
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 <!-- #{MessageDescription} -->   
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                                 </td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                               </tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                             </table>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           </td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         </tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         <tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                           <td height="40" style="height: 40px; line-height:40px;"></td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                         </tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                       </table>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                     </td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                   </tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                 </table>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:               </td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:             </tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:             <tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:               <td height="20" style="height: 20px; line-height:20px;"></td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:             </tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:             <tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:               <td width="600" align="center" valign="top">
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                 <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                   <tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                     <td align="center" valign="top" style="font-family: Arial, sans-serif; font-size: 12px; mso-line-height-rule: exactly; line-height: 18px; font-weight: 400;color: #a1b4c4;">This is an automatically generated email, please do not reply.</td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                   </tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:                 </table>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:               </td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:             </tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:             <tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:               <td height="20" style="height: 20px; line-height:20px;"></td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:             </tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:           </table>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:         </td>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:       </tr>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:     </table>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER:   </body>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: </html>
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: --b1_9fd0f92fc20eb60ce4a32f8be98de00e--
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: 
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: .
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: SERVER -> CLIENT: 250 OK id=1vGuzk-003NA6-2J
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: CLIENT -> SERVER: QUIT
+
+[2025-11-06 08:05:24] SMTP Debug (Level 2) | Data: SERVER -> CLIENT: 221 biz114.vodien.com closing connection
+
+[2025-11-06 08:05:24] SUCCESS: Email sent successfully
